@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 /data
+
+# Generated artifact exports
+/artifacts/pre_model/*_pre_imputation.csv.gz
+/artifacts/pre_model/train_target.csv.gz
+/artifacts/pre_model/train_groups.csv.gz
+/artifacts/airtifact/
